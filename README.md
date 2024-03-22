@@ -26,7 +26,8 @@
 
 - Federal University of Pernambuco------------Pernambuco, Brazil (08/2013-08/2015) 
   - Position: MS Student
-    - Micromagnetic simulation for studying the effects of roughness in nickel nanowires ([Micromagnetic simulation for studying the effects of roughness in nickel nanowires](https://repositorio.ufpe.br/bitstream/123456789/17699/1/Dissertacao-Version-Final.pdf)
+    - Micromagnetic simulation for studying the effects of roughness in nickel nanowires ([Simulação micromagnética para o estudo dos efeitos de
+rugosidade em nanoﬁos de níquel](https://repositorio.ufpe.br/bitstream/123456789/17699/1/Dissertacao-Version-Final.pdf))
 
     
 - University of Oriente------------------------------------Santiago, Cuba (08/2012-07/2013)
@@ -37,7 +38,7 @@
     - Mathematical Modeling of Hurricanes.
     - Mathematical Modeling of Fluids.
    
-### Technologies and Skills
+## Technologies and Skills
 - Python
   - Pandas, Seaborn, Matplotlib, Plotly, Gradio  
 - SQL
@@ -50,7 +51,7 @@
 - Complementary Technologies
   - Git, GitHub, Jupyter Notebooks, LaTeX   
 
-### Data Science Projects Sample
+## Data Science Projects Sample
 - Prediction with Functionally Weighted Neural Network as a Nonlinear Regression Model
 
 ## Talks
@@ -84,8 +85,9 @@ del sistema ZnO. 2011. (Symposium).
 
 ## Orientations and Supervisions Completed
 
-- Julio C. Rizo. ASTROTIDE: Application for the Analysis and
-Forecasting of Astronomical Tides. 2013. Bachelor's Thesis. (Bachelor's Degree in Computer Science) - University of Oriente Cuba.
+- Julio C. Rizo. ASTROTIDE:  Aplicación para el Análisis y
+Pronóstico de la Marea Astronómica. 2013. (Application for the Analysis and
+Forecasting of Astronomical Tides). 2013. Bachelor's Thesis. (Bachelor's Degree in Computer Science) - University of Oriente Cuba.
 Advisor: Henry Hodelin Shombert.
 
 ### Hobbies
